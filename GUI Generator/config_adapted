@@ -1,0 +1,7 @@
+<config>
+<Button X="150" value="Click on me" Y="250" />
+<Button value="Click on me too" X="150" Y="350" color="#87c9ff" />
+<TextField value="This is a TextField" X="510" Y="200" />
+<TextField value="Another TextField" X="510" Y="300" color="orange" font="monospace" fontSize="30px" />
+<EditText X="510" Y="400" font="Arial" />
+</config>

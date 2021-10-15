@@ -1,0 +1,8 @@
+Button, X: 700, value: Click on meeeee, Y: 300
+Button, value: Click on me, X: 150, Y: 400, color: green
+Label, value: text, X: 80, Y: 20
+Label, value: text, X: 470, Y: 10, color: blue, font: Arial
+PasswordField, value: text, X: 230, Y: 300
+PasswordField, value: text, X: 190, Y: 300, color: blue, font: Arial
+TextField, value: text, X: 250, Y: 50
+TextField, value: text, X: 250, Y: 530, color: blue, font: Arial
